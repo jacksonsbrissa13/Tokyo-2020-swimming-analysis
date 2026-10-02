@@ -1,0 +1,26 @@
+.DS_Store
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
+.renv/
+renv/library/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.claude/
+.codex/
+.positai/
+__pycache__/
+.venv/
+venv/
+node_modules/
+*.mp4
+*.mov
+*.m4v
+~$*
+
+# Original Olympic results PDFs are local inputs, excluded from publication.
+/Tokyo 2020 swimming data/

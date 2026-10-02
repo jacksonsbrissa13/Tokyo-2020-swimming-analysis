@@ -1,0 +1,47 @@
+{
+  "note": "Portfolio copies use descriptive filenames. Current SHA-256 values describe the published copies; source_sha256 records the original source content. Original Olympic results PDFs are excluded from publication and remain local. Original computer files were not edited or moved. Original source paths are retained only in local preparation records.",
+  "files": [
+    {
+      "file": "event_time_distributions.png",
+      "bytes": 240656,
+      "sha256": "ecf41ab0178d88ac68ff4775a16a96610a9806bf2e1be040580bdf874d22c939",
+      "source_sha256": "ecf41ab0178d88ac68ff4775a16a96610a9806bf2e1be040580bdf874d22c939",
+      "content_changed_for_publication": false
+    },
+    {
+      "file": "swimming_analysis.R",
+      "bytes": 12211,
+      "sha256": "9e255b0ccf84659bd13ad8d78d93bb9b1a1adeb21b9343f8cce0462f0ca0d447",
+      "source_sha256": "c030aa72d245721b434f64ded272be0ef4c9f9c2ef8da2a25a22029e0b84ad17",
+      "content_changed_for_publication": true
+    },
+    {
+      "file": "swimming_analysis_report.docx",
+      "bytes": 451876,
+      "sha256": "ef0c1719df5f8a90c0d66e0323228f504e2062d0e179ea18ccdcf8556a5d2790",
+      "source_sha256": "4648bacbcbb5b7ef9662668b20916c30f50369ae0e3ee3ff68c14da43749f297",
+      "content_changed_for_publication": true
+    },
+    {
+      "file": "swimming_model_results.xlsx",
+      "bytes": 10451,
+      "sha256": "b8ef3c5c8bc188cee3098d88a7471ee46ffe8a68e13e88e55d353581355fa286",
+      "source_sha256": "b8ef3c5c8bc188cee3098d88a7471ee46ffe8a68e13e88e55d353581355fa286",
+      "content_changed_for_publication": false
+    },
+    {
+      "file": "titmus_split_comparison.png",
+      "bytes": 279134,
+      "sha256": "0c0bfa1c511f797119a31dac131ca002680eabe7444825eee8cc56fc7b28b659",
+      "source_sha256": "0c0bfa1c511f797119a31dac131ca002680eabe7444825eee8cc56fc7b28b659",
+      "content_changed_for_publication": false
+    },
+    {
+      "file": "tokyo_swimming.Rproj",
+      "bytes": 195,
+      "sha256": "c18b78af23d3b85aa81340d73fe186923d7310043f550aeb38ef7a32e2c1227e",
+      "source_sha256": "c18b78af23d3b85aa81340d73fe186923d7310043f550aeb38ef7a32e2c1227e",
+      "content_changed_for_publication": false
+    }
+  ]
+}
